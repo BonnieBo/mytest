@@ -6,4 +6,4 @@ Today,i dislike my teacher
 he is very boring
 
 
-git commit readme second
+git commit readme third 
